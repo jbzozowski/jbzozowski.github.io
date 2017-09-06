@@ -1,0 +1,21 @@
+.freeshelf {
+  border: solid 1px;
+  display: inline-block;
+  border-radius: 100%;
+  padding: 2.0em;
+  margin: 0 0 2em 0;
+  border-color: #dddddd;
+  cursor: pointer;
+}
+
+.freeshelf:before {
+  display: inline-block;
+  font-size: 6.25rem;
+  width: 2.25em;
+  height: 2.25em;
+  line-height: 2.2em;
+  border-radius: 100%;
+  border: solid 1px;
+  text-align: center;
+  border-color: #dddddd;
+}
