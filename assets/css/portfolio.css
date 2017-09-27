@@ -19,3 +19,7 @@
   text-align: center;
   border-color: #dddddd;
 }
+
+.project h3 {
+  font-weight: bolder;
+}
