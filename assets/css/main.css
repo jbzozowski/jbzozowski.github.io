@@ -2617,7 +2617,6 @@ input[type="radio"]:focus + label:before {
 }
 
 .image img {
-  border-radius: 8px;
   display: block;
 }
 
