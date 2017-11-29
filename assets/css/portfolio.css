@@ -26,3 +26,20 @@
 .logo {
   border: none;
 }
+
+.tricon {
+  display: inline-flex;
+  justify-content: center;
+}
+
+.colorcon1 {
+  color: #efa8b0;
+}
+
+.colorcon2 {
+  color: #9bb2e1;
+}
+
+.colorcon3 {
+  color: #8cc9f0;
+}
