@@ -3082,10 +3082,10 @@ table.alt tbody tr td {
 /* Statistics */
 
 .statistics {
-  display: -moz-flex;
-  display: -webkit-flex;
-  display: -ms-flex;
-  display: flex;
+  /*display: -moz-flex;*/
+  /*display: -webkit-flex;*/
+  /*display: -ms-flex;*/
+  /*display: flex;*/
   width: 100%;
   margin: 0 0 3em 0;
   padding: 0;
